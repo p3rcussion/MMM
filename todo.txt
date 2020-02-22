@@ -1,0 +1,7 @@
+Goal:
+	Use machine learning to create midi file from sheet music. This requires obtaining large amount of files in pdf and midi format, likely from musescore using beautiful soup.
+
+List of Objectives:
+	1. Amass large amounts of files in pdf format and midi format in ./pdf and ./midi folders using beautiful soup on musescore and later imslp.
+	2. machine learning
+	3. enjoy!
